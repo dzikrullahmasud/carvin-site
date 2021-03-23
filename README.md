@@ -1,3 +1,9 @@
+# Git command for push
+
+git add .
+git commit -m 'ting tong'
+git push
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -6,7 +6,6 @@ import Portfolio from './portfolio'
 import ContactUs from './contactus'
 import Download from './download'
 
-import logo from '../assets/logo.svg'
 import '../css/App.css'
 
 function App() {
