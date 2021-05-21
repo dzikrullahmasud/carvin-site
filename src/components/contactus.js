@@ -7,6 +7,10 @@ const ContactUs = () => {
     <Container>
       <div className="content">
         <h1>Contact</h1>
+        <p>Email: </p>
+        <p>Call Us: </p>
+        <p>Location: </p>
+        <p></p>
       </div>
     </Container>
   )
